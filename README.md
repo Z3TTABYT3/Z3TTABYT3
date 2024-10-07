@@ -6,9 +6,9 @@
 - <b>PLACEHOLDER</b>
   - [PLACEHOLDER](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
-- [PLACEHOLDER](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [PLACEHOLDER]()
 
 <h2> 🤳 Connect with me:</h2>
 
