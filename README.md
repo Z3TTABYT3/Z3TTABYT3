@@ -19,7 +19,7 @@
 [linkedin]: https://linkedin.com/in/matthew-m-motley
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Z3TTABYT3/Z3TTABYT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
